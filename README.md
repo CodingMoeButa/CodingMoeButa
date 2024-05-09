@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingMoeButa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingMoeButa&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingMoeButa&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills: E](e.ico)](https://www.eyuyan.com/)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,php,java,python,go,rust)](https://skillicons.dev)
