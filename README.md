@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 | MongoDB | ⭐⭐ |
 | Node.js | ⭐⭐⭐ |
 | Pytorch | ⭐ |
+| Kubernetes | ⭐ |
+| Docker | ⭐⭐ |
 | Email Server DEV | ⭐⭐⭐⭐ |
 | Redis | ⭐⭐⭐ |
 | Memcache | ⭐⭐ |
@@ -52,12 +54,12 @@ Here are some ideas to get you started:
 
 | Skill | Proficiency | Skill | Proficiency | Skill | Proficiency |
 | ----- | ----------- | ----- | ----------- | ----- | ----------- |
-| Architecture Design | ⭐⭐ | Laravel | ⭐⭐ | MariaDB | ⭐⭐⭐ |
-| PostgreSQL | ⭐⭐⭐ | ThinkPHP | ⭐⭐⭐⭐ | MySQL | ⭐⭐⭐ |
-| ElasticSearch | ⭐⭐ | Vue | ⭐⭐ | Qt | ⭐ |
-| MongoDB | ⭐⭐ | Network Proxy | ⭐⭐⭐⭐ | C# WPF | ⭐⭐ |
-| Node.js | ⭐⭐⭐ | Python Async | ⭐⭐⭐⭐ | C# Winform | ⭐⭐⭐ |
-| Pytorch | ⭐ | Python GUI | ⭐⭐⭐ | Android APP DEV | ⭐ |
+| Architecture Design | ⭐⭐ | Redis | ⭐⭐⭐ | Java Spring | ⭐⭐ |
+| PostgreSQL | ⭐⭐⭐ | Memcache | ⭐⭐ | SQLite | ⭐⭐⭐⭐ |
+| ElasticSearch | ⭐⭐ | Laravel | ⭐⭐ | MariaDB | ⭐⭐⭐ |
+| MongoDB | ⭐⭐ | ThinkPHP | ⭐⭐⭐⭐ | MySQL | ⭐⭐⭐ |
+| Node.js | ⭐⭐⭐ | Vue | ⭐⭐ | Qt | ⭐ |
+| Pytorch | ⭐ | Network Proxy | ⭐⭐⭐⭐ | C# WPF | ⭐⭐ |
+| Kubernetes | ⭐ | Python Async | ⭐⭐⭐⭐ | C# Winform | ⭐⭐⭐ |
+| Docker | ⭐⭐ | Python GUI | ⭐⭐⭐ | Android APP DEV | ⭐ |
 | Email Server DEV | ⭐⭐⭐⭐ | Python Crawler | ⭐⭐⭐⭐⭐ | 易语言 | ⭐⭐⭐⭐ |
-| Redis | ⭐⭐⭐ | Java Spring | ⭐⭐ |
-| Memcache | ⭐⭐ | SQLite | ⭐⭐⭐⭐ |
